@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1918006 Profile</string>
+    <string name="app_main">Contoh Profil layout</string>
+    <string name="app_layout">Relative + Linear Layout</string>
+    <string name="app_constraint">Constraint Layout</string>
+    <string name="wa">+62 878-7917-0228</string>
+    <string name="gmail">1918006@scholar.itn.ac.id</string>
+    <string name="instagram">Nyx_nocturnal</string>
+</resources>
